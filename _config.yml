@@ -7,16 +7,16 @@
 ## Uses distinct namespace. Jekyll settings should go at the root level.
 githubiverse:
     ## Metadata
-    title: "Mechanical Movement #27"
-    author: Gary Hodgson
-    license: GPL3
-    tags: [mechanical movement, fun]
+    title: "Rostock Max Magnetic Unibody Arm"
+    author: bethebeer
+    license: GPL v2
+    tags: [rostock, max, magnetic]
 
     ## Github project parameters.
     github:
         base: https://github.com/
-        user: garyhodgson
-        repository: githubiverse-tst
+        user: bethebeer
+        repository: Rostock-Magnetic-Arms
         branch: master
 
     ## The names of directories where any images, source and stl files associated with the project can be found.
@@ -25,7 +25,7 @@ githubiverse:
     src_dir: src
 
     ## The headline image
-    lead_image: test-jig.jpg
+    lead_image: test.jpg
     show_lead_image: true
 
     ## Optional. When uncommented appends the content of the file defined here to the project description.  Any text in index.md, after the yaml header, will be shown first.
